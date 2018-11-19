@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Beef"
+    },
+    {
+      "id": 2,
+      "name": "Breakfast"
+    },
+    {
+      "id": 3,
+      "name": "Chicken"
+    },
+    {
+      "id": 4,
+      "name": "Desert"
+    },
+    {
+      "id": 5,
+      "name": "Lamb"
+    },
+    {
+      "id": 6,
+      "name": "Miscellaneous"
+    },
+    {
+      "id": 7,
+      "name": "Pasta"
+    },
+    {
+      "id": 8,
+      "name": "Pork"
+    },
+    {
+      "id": 9,
+      "name": "Seafood"
+    },
+    {
+      "id": 10,
+      "name": "Side"
+    },
+    {
+      "id": 11,
+      "name": "Starter"
+    },
+    {
+      "id": 12,
+      "name": "Vegan"
+    },
+    {
+      "id": 13,
+      "name": "Vegetarian"
+    }
+  ]
+}

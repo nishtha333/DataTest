@@ -1,0 +1,84 @@
+{
+  "areas": [
+    {
+      "id": 1,
+      "name": "American"
+    },
+    {
+      "id": 2,
+      "name": "British"
+    },
+    {
+      "id": 3,
+      "name": "Canadian"
+    },
+    {
+      "id": 4,
+      "name": "Chinese"
+    },
+    {
+      "id": 5,
+      "name": "Dutch"
+    },
+    {
+      "id": 6,
+      "name": "French"
+    },
+    {
+      "id": 7,
+      "name": "Greek"
+    },
+    {
+      "id": 8,
+      "name": "Indian"
+    },
+    {
+      "id": 9,
+      "name": "Irish"
+    },
+    {
+      "id": 10,
+      "name": "Italian"
+    },
+    {
+      "id": 11,
+      "name": "Jamaican"
+    },
+    {
+      "id": 12,
+      "name": "Japanese"
+    },
+    {
+      "id": 13,
+      "name": "Malaysian"
+    },
+    {
+      "id": 14,
+      "name": "Mexican"
+    },
+    {
+      "id": 15,
+      "name": "Moroccan"
+    },
+    {
+      "id": 16,
+      "name": "Russian"
+    },
+    {
+      "id": 17,
+      "name": "Spanish"
+    },
+    {
+      "id": 18,
+      "name": "Thai"
+    },
+    {
+      "id": 19,
+      "name": "Unknown"
+    },
+    {
+      "id": 20,
+      "name": "Vietnamese"
+    }
+  ]
+}
